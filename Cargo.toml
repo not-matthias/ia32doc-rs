@@ -1,5 +1,5 @@
 [package]
-name = "ia32doc-rs"
+name = "ia32doc"
 version = "0.1.0"
 edition = "2021"
 
